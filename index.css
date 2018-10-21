@@ -1,0 +1,13 @@
+body{
+     background-image: url("https://geospatialmedia.s3.amazonaws.com/wp-content/uploads/2017/09/forest-07.jpg");
+     background-size:cover
+}
+p{
+    font-size:52px;
+    color:chartreuse
+}
+h1{
+    font-size:72px;
+    color:cornsilk;
+    text-align:center
+}
